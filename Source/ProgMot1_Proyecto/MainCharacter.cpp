@@ -15,7 +15,7 @@ AMainCharacter::AMainCharacter()
 void AMainCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	canMove = true;
 }
 
 // Called every frame
@@ -40,6 +40,7 @@ void AMainCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 
 void AMainCharacter::MoveForward(float f)
 {
+	if (!canMove) return;
 	if (Controller && f != 0) 
 	{
 		FRotator rot = GetController()->GetControlRotation();
@@ -51,6 +52,7 @@ void AMainCharacter::MoveForward(float f)
 
 void AMainCharacter::MoveRight(float f)
 {
+	if (!canMove) return;
 	if (Controller && f != 0) 
 	{
 		FRotator rot = GetController()->GetControlRotation();
@@ -62,11 +64,18 @@ void AMainCharacter::MoveRight(float f)
 
 void AMainCharacter::MouseX(float f)
 {
+	if (!canMove) return;
 	AddControllerYawInput(f);
 }
 
 void AMainCharacter::MouseY(float f)
 {
+	if (!canMove) return;
 	AddControllerPitchInput(f);
+}
+
+void AMainCharacter::SwapMovement(bool newState)
+{
+	canMove = newState;
 }
 

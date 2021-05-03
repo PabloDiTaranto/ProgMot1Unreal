@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "Engine.h"
 #include "GameFramework/Character.h"
 #include "MainCharacter.generated.h"
 
@@ -14,6 +14,9 @@ class PROGMOT1_PROYECTO_API AMainCharacter : public ACharacter
 public:
 	// Sets default values for this character's properties
 	AMainCharacter();
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool canMove;
 
 protected:
 	// Called when the game starts or when spawned
@@ -30,4 +33,6 @@ public:
 	void MoveRight(float f);
 	void MouseX(float f);
 	void MouseY(float f);
+	UFUNCTION(BlueprintCallable)
+	void SwapMovement(bool newState);
 };
