@@ -1,0 +1,1092 @@
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Global_Interfaces/IDamagable.uasset" 0
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Meshes/Shinbi_ShadowCyl.uasset" 1
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Meshes/Shinbi_Extents.uasset" 2
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 3
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 4
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 5
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/T_TestML_Mask.uasset" 6
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Rubber/T_Blank_N.uasset" 7
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Metal/T_Blue_Metal02.uasset" 8
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise03.uasset" 9
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01_N.uasset" 10
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01.uasset" 11
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.uasset" 12
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 13
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideBaseColor.uasset" 14
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uasset" 15
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakBaseColor.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Lerp_ScratchGrime.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/MetallicShading.uasset" 24
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/ParameterCollections/OrionGlobalGameplayCollection.uasset" 25
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/ML__Blank.uasset" 26
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard.uasset" 27
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime.uasset" 28
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Metal/ML_blue_Metal.uasset" 29
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_OrionRimlight.uasset" 30
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_DeathFade.uasset" 31
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_BrightnessAdjust.uasset" 32
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/HitFlash.uasset" 33
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_CharacterEffects.uasset" 34
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Materials/M_TearLine.uasset" 35
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/M_TearLine_Inst2.uasset" 36
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Lower_RGB.uasset" 37
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Lower_N.uasset" 38
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Lower_Mask_1.uasset" 39
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Lower_Mask.uasset" 40
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Legs_Colour.uasset" 41
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/Shinbi_Skin.uasset" 42
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_UpperBody_RGB.uasset" 43
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_UpperBody_N.uasset" 44
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_UpperBody_Mask_1.uasset" 45
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_UpperBody_Color.uasset" 46
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Skins/Tier_1/Shinbi_Jade/Textures/T_Shinbi_UpperBody_Mask.uasset" 47
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Patterns/T_FineFabric02_Pattern.uasset" 48
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Fabric/T_silkroughness.uasset" 49
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Fabric/T_GoldFabric01_N.uasset" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 51
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Fabric/ML_RoyalSilk.uasset" 52
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/MF_ShinbiSilk.uasset" 53
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/T_Black_Linear.uasset" 54
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Skin/T_Pore_Specular.uasset" 55
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Skin/T_Pore_Normals2.uasset" 56
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_SkinPores.uasset" 57
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Skin/ML_Skin.uasset" 58
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Metal/T_ML_Gold_Metal01.uasset" 59
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Metal/T_Blank_N.uasset" 60
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Metal/ML_Gold_Metal02.uasset" 61
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Fabric/T_Velvet_Thick_HEIGHT.uasset" 62
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Fabric/T_ML_Fabric_Blue_Medium_N.uasset" 63
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Fabric/T_ML_Fabric_Basic2.uasset" 64
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MaterialLayerConstructors/MF_RoughnessAdjustment.uasset" 65
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MaterialLayerConstructors/MF_BaseColorTintAndContrast.uasset" 66
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 67
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_ClothShading.uasset" 68
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/Fabric/ML_Fabric_Basic1.uasset" 69
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 70
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_OrionCharacterAO.uasset" 71
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 72
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 73
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 74
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/MF_Fuzz_Layer.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 76
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 77
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TenLayerBlend.uasset" 78
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/M_Shinbi_Skin_update.uasset" 79
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/M_Shinbi_Legs_Inst_2.uasset" 80
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Arms_RGB.uasset" 81
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Arms_N.uasset" 82
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Arms_Mask_1.uasset" 83
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Arms_Mask.uasset" 84
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Textures/T_Shinbi_Arms_Colour.uasset" 85
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/M_Shinbi_Arms_Inst_2.uasset" 86
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/SharedHairContent/FemaleHair_Straight_Femme/T_Femme_Hair_Roots.uasset" 87
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/SharedHairContent/FemaleHair_Straight_Femme/T_Femme_Hair_ID.uasset" 88
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/SharedHairContent/FemaleHair_Straight_Femme/T_Femme_Hair_Depth.uasset" 89
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/SharedHairContent/FemaleHair_Straight_Femme/T_Femme_Hair_Alpha.uasset" 90
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/TestContent/T_HairClump02_Roots.uasset" 91
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/TestContent/T_HairClump02_ID.uasset" 92
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/TestContent/T_HairClump02_DyeMask.uasset" 93
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/TestContent/T_HairClump02_Depth.uasset" 94
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/TestContent/T_HairClump02_Alpha.uasset" 95
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialFunctions/ParagonCharacterHairWind.uasset" 96
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/Materials/MF_BlendHairColorsWithParam.uasset" 97
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/T_Fire_Tiled_D.uasset" 98
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/FX/Textures/Water/T_Caustics_2.uasset" 99
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/FX/Textures/Gradients/Masks/T_gradient_stasis.uasset" 100
+"../../../Engine/Content/EngineResources/Black.uasset" 101
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_Solo_On.uasset" 102
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 103
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 104
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Hair/Materials/M_HairSheet_Master2.uasset" 105
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/M_HairSheet_Master2_Inst_4.uasset" 106
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_EyeOcclusion2.uasset" 107
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 108
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraVectorWithWPOOptions.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/SceneTextureAverage.uasset" 112
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Materials/M_Eye_Occlusion.uasset" 113
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/M_Eye_Occlusion_Inst.uasset" 114
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_EyeMidPlaneDisplacement_Example.uasset" 115
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_3.uasset" 116
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/FX/Textures/Flares/T_Muriel_Corona_D.uasset" 117
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_Swirly_Noise.uasset" 118
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_Sphere_EYE_NORMALS.uasset" 119
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_2.uasset" 120
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_2.uasset" 121
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_Eye_Wet_Normal.uasset" 122
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_EYE_NORMALS.uasset" 123
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/T_DecalMask_Radial03.uasset" 124
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/EpicQuadPanorama_CC.uasset" 125
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/TangentBasis.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 130
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/MaterialFunctions/ML_EyeRefraction.uasset" 131
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Textures/EyeInner_Profile.uasset" 132
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/MaterialLayers/ML_TacticiaULTEye.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 134
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyes/Materials/M_EyeRefractive.uasset" 135
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/M_EyeRefractive_Inst2.uasset" 136
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Mouth/Textures/T_Master_Mouth_1_RGB.uasset" 137
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Mouth/Textures/T_Master_Mouth_1_N.uasset" 138
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Mouth/Textures/T_Master_Mouth_1_COLOR.uasset" 139
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Mouth/Materials/TeethSubsurfaceProfile.uasset" 140
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Mouth/Materials/M_Mouth_Master.uasset" 141
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Materials/MI_Human_Mouth_Demo.uasset" 142
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyelash/T_Universal_Eyelashes_D.uasset" 143
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Global/Eyelash/M_EyelashMaster.uasset" 144
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Meshes/Paragon_Proto_Retarget.uasset" 145
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Meshes/Shinbi_Skeleton.uasset" 146
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Meshes/Shinbi.uasset" 147
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_PainHeavy_03.uasset" 148
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi.uasset" 149
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_PainHeavy_03_Dialogue.uasset" 150
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_PainHeavy_02.uasset" 151
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_PainHeavy_02_Dialogue.uasset" 152
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_PainHeavy_01.uasset" 153
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_PainHeavy_01_Dialogue.uasset" 154
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_PainHeavy.uasset" 155
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Pain_03.uasset" 156
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Pain_03_Dialogue.uasset" 157
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Pain_02.uasset" 158
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Pain_02_Dialogue.uasset" 159
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Pain_01.uasset" 160
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Pain_01_Dialogue.uasset" 161
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/MainCharacter_Damage_Cue.uasset" 162
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Swing_03.uasset" 163
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Swing_03_Dialogue.uasset" 164
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Swing_02.uasset" 165
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Swing_02_Dialogue.uasset" 166
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Swing_01.uasset" 167
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Swing_01_Dialogue.uasset" 168
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/MainCharacter_Attack_Cue.uasset" 169
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 170
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 171
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/trails/T_Streak_Soft_Trail_02.uasset" 172
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Tile/Organic/T_Swirly_Fluid.uasset" 173
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Functions/MF_CameraDistanceFade.uasset" 174
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Functions/FX_EmissiveModulate.uasset" 175
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.uasset" 176
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Trails/M_Mudang_Primary_AnimTrail.uasset" 177
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Particles/Abilities/Primary/FX/P_Mudang_Primary_Trail.uasset" 178
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/PrimaryMelee_D_Slow.uasset" 179
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/PrimaryMelee_D_Slow_Montage.uasset" 180
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/PrimaryMelee_C_Slow.uasset" 181
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/PrimaryMelee_C_Slow_Montage.uasset" 182
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/PrimaryMelee_B_Slow.uasset" 183
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/PrimaryMelee_B_Slow_Montage.uasset" 184
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Front.uasset" 185
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Right.uasset" 186
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Right_Montage.uasset" 187
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Left.uasset" 188
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Left_Montage.uasset" 189
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Front_Montage.uasset" 190
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Back.uasset" 191
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/HitReact_Back_Montage.uasset" 192
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Death_A.uasset" 193
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Jump_03.uasset" 194
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Jump_03_Dialogue.uasset" 195
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Jump_02.uasset" 196
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Jump_02_Dialogue.uasset" 197
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Jump_01.uasset" 198
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Jump_01_Dialogue.uasset" 199
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/MainCharacter_Jump_Cue.uasset" 200
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jog_Fwd_SlopeUpHill.uasset" 201
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jog_Fwd_SlopeDownHill.uasset" 202
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jog_Fwd_Circle_Right.uasset" 203
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jog_Fwd_Circle_Left.uasset" 204
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jog_Fwd.uasset" 205
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Blendspaces/JogFwdSlopeLean.uasset" 206
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jump_Start.uasset" 207
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Idle.uasset" 208
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jump_Recovery_Additive.uasset" 209
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jump_Land.uasset" 210
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jump_Apex.uasset" 211
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jog_Fwd_Start.uasset" 212
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_CC.uasset" 213
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_RU.uasset" 214
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_RD.uasset" 215
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_RC.uasset" 216
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_LU.uasset" 217
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_LD.uasset" 218
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_LC.uasset" 219
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_CU.uasset" 220
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_CD.uasset" 221
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/AimOffsets/Idle_AO_Blendspace.uasset" 222
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/Jog_Fwd_Stop.uasset" 223
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 224
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/ABP_MainCharacter.uasset" 225
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/FadeInDeath.uasset" 226
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/FadeInBlack.uasset" 227
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/CharacterHUD.uasset" 228
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Interacts/I_Interact.uasset" 229
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/I_Enemy.uasset" 230
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/BP/BP_MainCharacter.uasset" 231
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/GameModeProgMot.uasset" 232
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 233
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 234
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 235
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 236
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 237
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 238
+"../../../Engine/Content/BasicShapes/Cone.uasset" 239
+"../../../Engine/Content/BasicShapes/Plane.uasset" 240
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 241
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 242
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 243
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 244
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 245
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 249
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 250
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 251
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 252
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 253
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 254
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 255
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 256
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 257
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 258
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 259
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 260
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 261
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 262
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 263
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 264
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 265
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 266
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 267
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 268
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 269
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 270
+"../../../Engine/Content/EditorResources/S_Note.uasset" 271
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 272
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 273
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 274
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 275
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 276
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 277
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 278
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 279
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 280
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 281
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 282
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 284
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 286
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 287
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 288
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 289
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 290
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 291
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 292
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 293
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 294
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 295
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 296
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 297
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 298
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 299
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 300
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 301
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 302
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 303
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 304
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 305
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 306
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 308
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 309
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 310
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 311
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 312
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 313
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 314
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 315
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 316
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 317
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 318
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 319
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 320
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 321
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 322
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 323
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 324
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 325
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 326
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 327
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 328
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 329
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 330
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 331
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 332
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 333
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 334
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 335
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 336
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 337
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 338
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 339
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 340
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 342
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 343
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 344
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 345
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 346
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 352
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 357
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 358
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 359
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 360
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 361
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 362
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 363
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 364
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 365
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 366
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 367
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 368
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 369
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 370
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 371
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 372
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 373
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 374
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 375
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 376
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 377
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 378
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 379
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 380
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 381
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 382
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 383
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 384
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 385
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 386
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 387
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 388
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 389
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 390
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 391
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 392
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 393
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 394
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 395
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 396
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 397
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 398
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 399
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 400
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 401
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 402
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 403
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 404
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 405
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 407
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 408
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 409
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 410
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 411
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 412
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 414
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 415
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 416
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 417
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 418
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 419
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 421
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 422
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 423
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 424
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 425
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/GI_ProgMot.uasset" 426
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/W_Death.uasset" 427
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Menues/W_Death.uasset" 428
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Menues/FadeOutDeath.uasset" 429
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/FadeOutDeath.uasset" 430
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Menues/EmptyPlayerToMenues.uasset" 431
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Menues/MenuGameMode.uasset" 432
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Maps/DeathLevel.umap" 433
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 434
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 435
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Textures/T_Water_N.uasset" 436
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 437
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 438
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 439
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 440
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 441
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 442
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 443
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Particles/P_FireBlue.uasset" 444
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Particles/P_Fire.uasset" 445
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/StarterContent/Audio/Fire01.uasset" 446
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/ElvenRuins_Terrain.uasset" 447
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_N.uasset" 448
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_D.uasset" 449
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall.uasset" 450
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_N.uasset" 451
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_M.uasset" 452
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_D.uasset" 453
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars.uasset" 454
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Wall_Straight_01.uasset" 455
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_StoneBlock_01.uasset" 456
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortWall_Straight_01.uasset" 457
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortColumn_01.uasset" 458
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_02_N.uasset" 459
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_02_D.uasset" 460
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars02.uasset" 461
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD03.uasset" 462
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_03_N.uasset" 463
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_03_D.uasset" 464
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars03.uasset" 465
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD01.uasset" 466
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Colunnade_Mid_01.uasset" 467
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_01.uasset" 468
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_04.uasset" 469
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_03.uasset" 470
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_02.uasset" 471
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_02.uasset" 472
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Castle_Wroughtlron_N.uasset" 473
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Castle_Wroughtlron_D.uasset" 474
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_Castle_WroughtIron.uasset" 475
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_01.uasset" 476
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_03.uasset" 477
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Bridge_Wall_01.uasset" 478
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_WaterPlain.uasset" 479
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock02_N.uasset" 480
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock02_D.uasset" 481
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_SmallRock.uasset" 482
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_SmallRock01.uasset" 483
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock01_N.uasset" 484
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock01_D.uasset" 485
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_LargeRock.uasset" 486
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock03.uasset" 487
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock02.uasset" 488
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsTrim_N.uasset" 489
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsTrim_D.uasset" 490
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/SurfaceTypes/PhysicalMaterial_Stone.uasset" 491
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_FloorTrims.uasset" 492
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble05.uasset" 493
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_Terrain_Floors01_N.uasset" 494
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_Terrain_Floors01_D.uasset" 495
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block.uasset" 496
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat02.uasset" 497
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat01.uasset" 498
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02_Broken.uasset" 499
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02.uasset" 500
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block01.uasset" 501
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Textures/T_Env_Plains_Mountain01_N.uasset" 502
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Textures/T_Env_Plains_Mountain01_D.uasset" 503
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Materials/M_Env_Plains_Mountain01.uasset" 504
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/StaticMesh/SM_Env_Plains_Mountain_01.uasset" 505
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_N.uasset" 506
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_M.uasset" 507
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_D.uasset" 508
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_Door.uasset" 509
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door01.uasset" 510
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_WoodenBarrel_01_N.uasset" 511
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_WoodenBarrel_01_D.uasset" 512
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_WoodenBarrel_01.uasset" 513
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Destroyed.uasset" 514
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_StatueHorn01_N.uasset" 515
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_StatueHorn01_D.uasset" 516
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_StatueHorn.uasset" 517
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_StatueBase.uasset" 518
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Tree01_N.uasset" 519
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Tree01_D.uasset" 520
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_Tree01_Opaque.uasset" 521
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_Skull.uasset" 522
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_MonkStatue_01_N.uasset" 523
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_MonkStatue_01_M.uasset" 524
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_MonkStatue_01_D.uasset" 525
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_MonkRef_01_R.uasset" 526
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CustomReflectionVector.uasset" 527
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_MonkStatue_01.uasset" 528
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_MonkStatue_01.uasset" 529
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_UN_Foliage_treesflat_jj_tex.uasset" 530
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_UN_Foliage_treesflat_jj_01_Color_Mat.uasset" 531
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_Foliage_treesflatcluster_01.uasset" 532
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_RockMesa_06_2K_N.uasset" 533
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_RockMesa_06_2K_D.uasset" 534
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_CliffWall_01.uasset" 535
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_CliffWall_01.uasset" 536
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_UN_Terrain_SandGrass_01.uasset" 537
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_UN_Terrain_Grass_03_D.uasset" 538
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_UN_Rock_SM_Cliffs01_N.uasset" 539
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_UN_Rock2_BSP_Rock05.uasset" 540
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_UN_Floors_BrickGrass_01_BlendMask.uasset" 541
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Base_Tile_DetailNormal.uasset" 542
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_UN_Rock_SM_Cliffs01_Master.uasset" 543
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_CliffsWhole_BC.uasset" 544
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_CliffRockTile_01_N.uasset" 545
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_CastleRockTile_01_D.uasset" 546
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_CastleRock_01.uasset" 547
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_CastleRock_02.uasset" 548
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_CastleRock_01.uasset" 549
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_BirdBath_N.uasset" 550
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_BirdBath_D.uasset" 551
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_BirdBath.uasset" 552
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_Birdbath.uasset" 553
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_DouglasFir_N.uasset" 554
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_DouglasFir.uasset" 555
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_PineTree_Translucent.uasset" 556
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_PineTree.uasset" 557
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/PineTree_Straight.uasset" 558
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Wrapped_Death_N.uasset" 559
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Wrapped_Death_D.uasset" 560
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_Sword.uasset" 561
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/NatheMesh.uasset" 562
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 563
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 564
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 565
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall_Inst.uasset" 566
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars_Inst.uasset" 567
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars02_Inst.uasset" 568
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Materials/M_BonfireLight.uasset" 569
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/SurfaceTypes/PhysicalMaterial_Land.uasset" 570
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass02_D.uasset" 571
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass01_N.uasset" 572
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass01_D.uasset" 573
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_N.uasset" 574
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_D.uasset" 575
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Terrain_Blend_Mobile.uasset" 576
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Snow_Ice_Generic_NRM.uasset" 577
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Snow_Ice_Generic.uasset" 578
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Ice_Ground_Rock01_N.uasset" 579
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Env_Snow_D.uasset" 580
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Env_Ice_Ground_Rock_4_N.uasset" 581
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_Ocean.uasset" 582
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 583
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Maps/Level1_BuiltData.uasset" 584
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/SoundWaves/Shinbi_Effort_Laugh_03.uasset" 585
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Effort_Laugh_03_Dialogue.uasset" 586
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/SoundWaves/Shinbi_Effort_Laugh_02.uasset" 587
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Effort_Laugh_02_Dialogue.uasset" 588
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Effort_Laugh_01.uasset" 589
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Effort_Laugh_01_Dialogue.uasset" 590
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/SoundCues/Shinbi_Effort_Laugh.uasset" 591
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Shinbi_Ability_E_Engage_030.uasset" 592
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 593
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 594
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 595
+"../../../Engine/Content/EngineSounds/Master.uasset" 596
+"../../../Engine/Content/EngineSounds/SFX.uasset" 597
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Sounds/Concrete_Run_01.uasset" 598
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MainCharacter/Animations/LevelStart.uasset" 599
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Cinematics/GrabSword/Scenes/GrabSwordSequence1.uasset" 600
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/MyTriggerActor.uasset" 601
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Interacts/Struct_Interact.uasset" 602
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Interacts/InteractsMessages.uasset" 603
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Potions.uasset" 604
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_Potions.uasset" 605
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/PotionHealth.uasset" 606
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Woman_Statue01_N.uasset" 607
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Woman_Statue01_D.uasset" 608
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_WomanStatue.uasset" 609
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_WomanStatue.uasset" 610
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Interacts/InteractHealth.uasset" 611
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Interacts/InteractFire.uasset" 612
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Wrought_Iron_Plate01_N.uasset" 613
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_Wrought_Iron_Plate01_D.uasset" 614
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_WroughtIron1.uasset" 615
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_WroughtIronPlate.uasset" 616
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Interacts/InteractEmblem.uasset" 617
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Meshes/Light_Crystal_Grounded/Glass.uasset" 618
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Meshes/Light_Crystal_Grounded/Base.uasset" 619
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/groundIllumination_LOW_Glass_OcclusionRoughnessMetallic.uasset" 620
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/groundIllumination_LOW_Glass_Normal.uasset" 621
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/groundIllumination_LOW_Glass_BaseColor.uasset" 622
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/GlassRed.uasset" 623
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/groundIllumination_LOW_Glass_Emissive.uasset" 624
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/Glass.uasset" 625
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/groundIllumination_LOW_TheRest_OcclusionRoughnessMetallic.uasset" 626
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/groundIllumination_LOW_TheRest_Normal.uasset" 627
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/groundIllumination_LOW_TheRest_BaseColor.uasset" 628
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/Textures/Light_Crystal_Grounded/Base.uasset" 629
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/trails/T_Soft_Energy_Trail.uasset" 630
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Tile/Noise/T_NoiseBubbly_Large.uasset" 631
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Masks/T_Vert_Gradient_Softer_Clamped.uasset" 632
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Masks/T_Spline_Gradient.uasset" 633
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Functions/FadeBasedOnViewAngle.uasset" 634
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 635
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 636
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SplineThicken.uasset" 637
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Energy/Plasma/M_Neon_Energy_Trail.uasset" 638
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Splines/M_Neon_Energy_Trail_Spline_Inst.uasset" 639
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Meshes/Splines/SM_Twist_Trail_SplineHybrid_2.uasset" 640
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Meshes/Shapes/SM_Aura_v1.uasset" 641
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Trails/M_Wolf_Ribbon_Trail.uasset" 642
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Gradients/Color/T_Muriel_Prism_03.uasset" 643
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Energy/Plasma/T_Turbulence_Seamless.uasset" 644
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Tile/Noise/T_Wind_Blur.uasset" 645
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Gradients/Masks/T_Portal_Gradient_M.uasset" 646
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Functions/MF_DitheredRefraction.uasset" 647
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Trails/M_Projectile_Wind_Rush.uasset" 648
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/VectorFields/Noisy_Turbulence_103.uasset" 649
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Flares/M_Lensflare_TB_SoftGlow.uasset" 650
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Meshes/Shapes/SM_Impact_Warp.uasset" 651
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Flares/T_Anime_Flare.uasset" 652
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Functions/MF_ParticleShrinkDistance.uasset" 653
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Flares/M_Anime_Flare.uasset" 654
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Meshes/Splines/SM_Twist_Trail_SplineHybrid.uasset" 655
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Gradients/Color/T_ShieldLightrays.uasset" 656
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Textures/Energy/Plasma/T_Sparrow_Poster_Tendrils_v1_Seamless.uasset" 657
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Energy/Plasma/M_Plasma_Energy_Mesh.uasset" 658
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Particles/Abilities/AttackWolves/FX/P_Attack_Wolves_Trails.uasset" 659
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/BP_TurretBullet.uasset" 660
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/Turret/BP_Turret.uasset" 661
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Menues/LevelComplete.uasset" 662
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/BP_LevelFinish.uasset" 663
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/BP_DeathFall.uasset" 664
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 665
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 666
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 667
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 668
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 669
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Meshes/Zinx_Extents.uasset" 670
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Torso_N.uasset" 671
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Torso_MASK_2.uasset" 672
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Torso_MASK.uasset" 673
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/FX/Textures/Tile/Noise/T_Inky_Smoke_Tile.uasset" 674
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/MF_Zinx_Emit.uasset" 675
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/MF_Zinx_Tube_Emissive.uasset" 676
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_Tubes.uasset" 677
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_Character_MaterialLayerQuality.uasset" 678
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Rubber/T_Rubber_2_N.uasset" 679
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Rubber/T_Rubber_LowContrast.uasset" 680
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/T_TestML_Mask.uasset" 681
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/ML__Blank.uasset" 682
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard.uasset" 683
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime.uasset" 684
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Rubber/ML_Rubber_LowContrast.uasset" 685
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_Rubber.uasset" 686
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_Lerp_GammaColor.uasset" 687
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/FX/Textures/Tile/Noise/T_Noise_Rough_Dark_Big.uasset" 688
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Metal/T_ScratchMask.uasset" 689
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Metal/T_Metal_SandCast_Med_N.uasset" 690
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Metal/T_Gray_Flat_Black.uasset" 691
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Metal/ML_Metal_SandCast.uasset" 692
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_PlasticRough.uasset" 693
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Fabric/T_Ballistic_Nylon_01_N.uasset" 694
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Fabric/T_Ballistic_Nylon_01_MASK.uasset" 695
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Fabric/ML_Ballistic_Nylon.uasset" 696
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_Nylon.uasset" 697
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_SolidValues.uasset" 698
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideOpacity.uasset" 699
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Metal/ML_BladeMetal.uasset" 700
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_MetalSimple.uasset" 701
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/T_ThinFilm_Spectrum_COLOR.uasset" 702
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_ThinFilm_Frensel.uasset" 703
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Synthetics/T_ML_PlasticPattern05_N.uasset" 704
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Synthetics/T_LatexTech_MASKS.uasset" 705
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Synthetics/ML_LatexClearCoat_2.uasset" 706
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_Latex.uasset" 707
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Painted/T_PaintScratches.uasset" 708
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Painted/ML_MetallicClearCoat02.uasset" 709
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_Armor.uasset" 710
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/MF_Zinx_DirtCheap.uasset" 711
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Torso_RGBAO.uasset" 712
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/T_Black_Linear.uasset" 713
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_OrionCharacterAO.uasset" 714
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_Mask_Harden.uasset" 715
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/ParameterCollections/OrionGlobalGameplayCollection.uasset" 716
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Rubber/T_Blank_N.uasset" 717
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Metal/T_Blue_Metal02.uasset" 718
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Metal/ML_blue_Metal.uasset" 719
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_OrionRimlight.uasset" 720
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_HitFlash.uasset" 721
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise03.uasset" 722
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01_N.uasset" 723
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01.uasset" 724
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_DeathFade.uasset" 725
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_BrightnessAdjust.uasset" 726
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_CharacterEffects.uasset" 727
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/Parent/M_Zinx_Main.uasset" 728
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Torso.uasset" 729
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Pistol_RGBAO.uasset" 730
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Pistol_N.uasset" 731
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Pistol_MASK_2.uasset" 732
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Pistol_MASK.uasset" 733
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Patterns/T_Lame_N.uasset" 734
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Patterns/T_Lame_D.uasset" 735
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Fabric/ML_Lame.uasset" 736
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_Plastic.uasset" 737
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/Parent/M_Zinx_Pistol.uasset" 738
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Pistol.uasset" 739
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Packs_RGBAO.uasset" 740
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Packs_N.uasset" 741
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Packs_MASK_2.uasset" 742
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Packs_MASK.uasset" 743
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Packs.uasset" 744
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Mouth/Textures/T_Master_Mouth_1_RGB.uasset" 745
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Mouth/Textures/T_Master_Mouth_1_N.uasset" 746
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Mouth/Textures/T_Master_Mouth_1_COLOR.uasset" 747
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Mouth/Materials/SSP_TeethSubsurfaceProfile.uasset" 748
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Mouth/Materials/M_Mouth_Master.uasset" 749
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Mouth.uasset" 750
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Legs_RGBAO.uasset" 751
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Legs_N.uasset" 752
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Legs_MASK_2.uasset" 753
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Legs_MASK.uasset" 754
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Legs.uasset" 755
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Head_FUR_COLOR.uasset" 756
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Fur_Clumps_ROOTS.uasset" 757
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Fur_Clumps_ID.uasset" 758
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Fur_Clumps_DEPTH.uasset" 759
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Fur_Clumps_AO.uasset" 760
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Fur_Clumps_ALPHA.uasset" 761
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Fur_Body_Head_WIND.uasset" 762
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/SSP_Zinx_Default.uasset" 763
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/SharedHairContent/Dye_MaskGradients/T_Gradient.uasset" 764
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/TestContent/T_HairClump02_Roots.uasset" 765
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/TestContent/T_HairClump02_ID.uasset" 766
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/TestContent/T_HairClump02_DyeMask.uasset" 767
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/TestContent/T_HairClump02_Depth.uasset" 768
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/TestContent/T_HairClump02_Alpha.uasset" 769
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_ParagonCharacterHairWind.uasset" 770
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/Materials/MF_BlendHairColorsWithParam.uasset" 771
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/T_Fire_Tiled_D.uasset" 772
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/FX/Textures/Water/T_Caustics_2.uasset" 773
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/FX/Textures/Gradients/Masks/T_gradient_stasis.uasset" 774
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/Materials/M_HairSheet_Master2.uasset" 775
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/T_SparrowHair_Flow.uasset" 776
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Head_Fur.uasset" 777
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Head_RGBAO.uasset" 778
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Head_N.uasset" 779
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Head_MASK.uasset" 780
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Head_D.uasset" 781
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Head_COLOR.uasset" 782
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_Fuzz_Layer.uasset" 783
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/ML/ML_Zinx_Fur.uasset" 784
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/PDO_Sheets/MPC/MPC_POM.uasset" 785
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/PDO_Sheets/MF_ScaleStepsByDistance.uasset" 786
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/PDO_Sheets/MF_POM_Samples.uasset" 787
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MakeUp/MF_Lipstick_Basic.uasset" 788
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Skin/T_Pore_Specular.uasset" 789
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Skin/T_Pore_Normals2.uasset" 790
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_SkinPores.uasset" 791
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Skin/ML_Skin.uasset" 792
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 793
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 794
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 795
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 796
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/Parent/M_Zinx_Head.uasset" 797
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Head.uasset" 798
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Feathers_N.uasset" 799
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Feathers_MASK.uasset" 800
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Feathers_COLOR.uasset" 801
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialFunctions/MF_CharacterSkinAO.uasset" 802
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/Parent/M_Zinx_Feathers.uasset" 803
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Feathers.uasset" 804
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyelash/T_Universal_Eyelashes_D.uasset" 805
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyelash/M_EyelashMaster.uasset" 806
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_EyeLashes.uasset" 807
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/T_EyeOcclusion2.uasset" 808
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Materials/M_Eye_Occlusion.uasset" 809
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Eye_Occ.uasset" 810
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Sclera.uasset" 811
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Eye.uasset" 812
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/Example/T_Eye_Wet_Normal.uasset" 813
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/T_Swirly_Noise.uasset" 814
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/T_DecalMask_Radial03.uasset" 815
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/Example/T_Sphere_EYE_NORMALS.uasset" 816
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/Example/T_EyeScleraBaseColor_Example_2.uasset" 817
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/Example/T_EyeIrisBaseColor_Example_2.uasset" 818
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/Example/T_EYE_NORMALS.uasset" 819
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/Example/SSP_EyeInner_Profile.uasset" 820
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/EpicQuadPanorama_CC.uasset" 821
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/FX/Textures/Flares/T_Zinx_Corona_D.uasset" 822
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/MaterialFunctions/ML_ZinxULTEye.uasset" 823
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Textures/Example/T_EyeMidPlaneDisplacement_Example.uasset" 824
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/MaterialFunctions/ML_EyeRefraction.uasset" 825
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Materials/M_EyeRefractive.uasset" 826
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Eye.uasset" 827
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_ShoulderCrown_RGBAO.uasset" 828
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_ShoulderCrown_N.uasset" 829
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_ShoulderCrown_MASK_2.uasset" 830
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_ShoulderCrown_MASK.uasset" 831
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Crown.uasset" 832
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_CapeFlesh_N.uasset" 833
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_CapeSkin_RGBAO.uasset" 834
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_CapeSkin_MASK_2.uasset" 835
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_CapeSkin_MASK.uasset" 836
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Rubber/M_RubberHose_Simple.uasset" 837
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/Parent/M_Zinx_Cape.uasset" 838
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Cape.uasset" 839
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_CapeSkin_FUR_COLOR.uasset" 840
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_CapeSkin_N.uasset" 841
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/Parent/M_Zinx_Skin.uasset" 842
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_Body.uasset" 843
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/MI_Zinx_BackElbows.uasset" 844
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Eyes/Materials/M_TearLine.uasset" 845
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/M_Zinx_TearLine.uasset" 846
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Hair_WIND.uasset" 847
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Hair_ROOTS.uasset" 848
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Hair_AO.uasset" 849
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Zinx/T_ID.uasset" 850
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Zinx/T_Diffuse.uasset" 851
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Zinx/T_Depth.uasset" 852
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Zinx/T_Alfa.uasset" 853
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/M_Zinx_Hair.uasset" 854
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Meshes/Zinx_ShadowCyl.uasset" 855
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Textures/T_Zinx_Whiskers_MASK.uasset" 856
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/M_Zinx_Whiskers.uasset" 857
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/M_Zinx_Hairmass.uasset" 858
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Global/MaterialLayers/Synthetics/ML_Glass.uasset" 859
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonZinx/Characters/Heroes/Zinx/Materials/M_Zinx_Glass.uasset" 860
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Meshes/Orion_Proto_Retarget.uasset" 861
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Meshes/Zinx_Skeleton.uasset" 862
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Meshes/Mesh_Zinx.uasset" 863
+"../../../Engine/Content/BasicShapes/Cube.uasset" 864
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 865
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 866
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Parameter_Collections/GlobalGameplayCollection.uasset" 867
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonShinbi/FX/Materials/Flares/M_Wolf_Proto_Eyes.uasset" 868
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/ZinxProyectile.uasset" 869
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Zinx_Death_Front.uasset" 870
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/HitReact_Right.uasset" 871
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Zinx_HitReact_Right_Montage.uasset" 872
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/HitReact_Left.uasset" 873
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Zinx_HitReact_Left_Montage.uasset" 874
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/HitReact_Fwd.uasset" 875
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Zinx_HitReact_Fwd_Montage.uasset" 876
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/HitReact_Bwd.uasset" 877
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Zinx_HitReact_Bwd_Montage.uasset" 878
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Primary_Fire_Med.uasset" 879
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Primary_Fire_Med_Montage.uasset" 880
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jog_Fwd_UpHill.uasset" 881
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jog_Fwd_DownHill.uasset" 882
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jog_Fwd_CircleRight.uasset" 883
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jog_Fwd_CircleLeft.uasset" 884
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jog_Fwd.uasset" 885
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Blendspaces/JogFwdSlopeLean.uasset" 886
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jump_Start.uasset" 887
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jump_Recovery_Additive.uasset" 888
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jump_PreLand.uasset" 889
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jump_Apex.uasset" 890
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jog_Fwd_Stop.uasset" 891
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Jog_Fwd_Start.uasset" 892
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Idle.uasset" 893
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Ambient_Tendrils.uasset" 894
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/Idle_Combat_Zero_Pose.uasset" 895
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_CR.uasset" 896
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_CL.uasset" 897
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_CC.uasset" 898
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_UR.uasset" 899
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_UL.uasset" 900
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_UC.uasset" 901
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_DR.uasset" 902
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_DL.uasset" 903
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AO_DC.uasset" 904
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Animations/AimOffsets/Idle_Combat_AimOffset.uasset" 905
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/Zinx_ABP.uasset" 906
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/ChaseStatus.uasset" 907
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/BB_Zinx.uasset" 908
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/IsPlayerInRange.uasset" 909
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/FindRandomLocation.uasset" 910
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/FindPlayerLocation.uasset" 911
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/ChangeStatus.uasset" 912
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Blue_Metal02.uasset" 913
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise03.uasset" 914
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01_N.uasset" 915
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01.uasset" 916
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Eyelash/T_Boris_Eyelashes_N.uasset" 917
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Eyelash/T_Boris_Eyelashes_D.uasset" 918
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/ParameterCollections/OrionGlobalGameplayCollection.uasset" 919
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/T_TestML_Mask.uasset" 920
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/ML__Blank.uasset" 921
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard.uasset" 922
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime.uasset" 923
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Rubber/T_Blank_N.uasset" 924
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/ML_blue_Metal.uasset" 925
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_OrionRimlight.uasset" 926
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_HitFlash.uasset" 927
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_DeathFade.uasset" 928
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_BrightnessAdjust.uasset" 929
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_CharacterEffects.uasset" 930
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Eyelash/M_EyelashMaster_N.uasset" 931
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris_ShadowCyl.uasset" 932
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris_Extents.uasset" 933
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_head_N.uasset" 934
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_Head_M1.uasset" 935
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_head_D.uasset" 936
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/PDO_Sheets/MPC/MPC_POM.uasset" 937
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/PDO_Sheets/MF_ScaleStepsByDistance.uasset" 938
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/PDO_Sheets/MF_POM_Samples.uasset" 939
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_PDO_QualitySwitch.uasset" 940
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/ML_BorisShort_Fur1.uasset" 941
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Xgen_boris_head_n.uasset" 942
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Xgen_Bear_head_Mask.uasset" 943
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/ML_BorisShort_Fur.uasset" 944
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Skin/T_Pore_Specular.uasset" 945
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Skin/T_Pore_Normals2.uasset" 946
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_SkinPores.uasset" 947
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Skin/ML_Skin.uasset" 948
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Skin/T_Bear_Nose_Tile_M.uasset" 949
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Skin/T_Bear_Nose_Tile_NRM.uasset" 950
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_BrearNosePores.uasset" 951
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Skin/ML_BearNose.uasset" 952
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_head_RGB.uasset" 953
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_Head_M.uasset" 954
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/SSP_Boris.uasset" 955
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_CharacterSkinAO.uasset" 956
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Head2.uasset" 957
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/T_Black_Linear.uasset" 958
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Substance_Boris_2ndHairUVs_M13_Hair_skin13_Wind.uasset" 959
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_Hair_Root_New.uasset" 960
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_Hair_Depth.uasset" 961
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_Hair_Alpha.uasset" 962
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Boris_Hair_Root.uasset" 963
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/TestContent/T_HairClump02_Roots.uasset" 964
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/TestContent/T_HairClump02_ID.uasset" 965
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/TestContent/T_HairClump02_DyeMask.uasset" 966
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/TestContent/T_HairClump02_Depth.uasset" 967
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/TestContent/T_HairClump02_Alpha.uasset" 968
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_ParagonCharacterHairWind.uasset" 969
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/Materials/MF_BlendHairColorsWithParam.uasset" 970
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/T_gradient_stasis.uasset" 971
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/T_Fire_Tiled_D.uasset" 972
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/T_Caustics_2.uasset" 973
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Hair/Materials/M_HairSheet_Master2.uasset" 974
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Hair2.uasset" 975
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Hair1.uasset" 976
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 977
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_WaterFoam2_D.uasset" 978
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Torso_RGB.uasset" 979
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Torso_M1.uasset" 980
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Smoke_01.uasset" 981
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_MarbleVein_D.uasset" 982
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/ML_Boris_Brew.uasset" 983
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_TorsoNormalDemo.uasset" 984
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Torso_M.uasset" 985
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Painted/ML_Plain_Glossy_Plastic.uasset" 986
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Steel_Dark_Aged_N.uasset" 987
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Steel_Stained_N.uasset" 988
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Steel_Stained_D.uasset" 989
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Steel_Dark_Aged_D.uasset" 990
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/ML_Steel_StainedDirty.uasset" 991
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Rust01_N.uasset" 992
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Rust01.uasset" 993
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/ML_Rust01.uasset" 994
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_IronRust_Tile_N.uasset" 995
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_IronRust_Tile_D.uasset" 996
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_RoughMetal01_N.uasset" 997
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_RoughMetal01.uasset" 998
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/ML_PaintedTank.uasset" 999
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_ML_Gold_Metal01.uasset" 1000
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/T_Blank_N.uasset" 1001
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialLayers/Metal/ML_Gold_Metal02.uasset" 1002
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/MaterialFunctions/MF_OrionCharacterAO.uasset" 1003
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Swirly_Noise.uasset" 1004
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Torso1.uasset" 1005
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_HipArmNormalDemo.uasset" 1006
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_HipArm_M1.uasset" 1007
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_HipArm_M.uasset" 1008
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_HipArm_RGB.uasset" 1009
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Arms_InstR.uasset" 1010
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Arms_Inst1.uasset" 1011
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Eyes/Materials/M_EyeGlow_Noise.uasset" 1012
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_EyeGlow_Noise_Inst.uasset" 1013
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Mouth.uasset" 1014
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_LegNormalDemo.uasset" 1015
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Leg_RGB.uasset" 1016
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Leg_M1.uasset" 1017
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Textures/T_Leg_M.uasset" 1018
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Materials/M_Boris_Legs_Inst1.uasset" 1019
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Eyes/Materials/M_TearLine.uasset" 1020
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Eyes/T_EyeOcclusion2.uasset" 1021
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Global/Eyes/Materials/M_Eye_Occlusion.uasset" 1022
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Meshes/Orion_Proto_Retarget.uasset" 1023
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris_Skeleton.uasset" 1024
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris.uasset" 1025
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Death.uasset" 1026
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Primary_A.uasset" 1027
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Primary_A_Montage.uasset" 1028
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/HitReact_Right.uasset" 1029
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/BorisHitReact_Right_Montage.uasset" 1030
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/HitReact_Left.uasset" 1031
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/BorisHitReact_Left_Montage.uasset" 1032
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/HitReact_Front.uasset" 1033
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/BorisHitReact_Front_Montage.uasset" 1034
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/HitReact_Back.uasset" 1035
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/BorisHitReact_Back_Montage.uasset" 1036
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jog_Fwd_UpHill.uasset" 1037
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jog_Fwd_DownHill.uasset" 1038
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jog_Fwd_CircleRight.uasset" 1039
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jog_Fwd_CircleLeft.uasset" 1040
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jog_Fwd.uasset" 1041
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Blendspaces/JogFwdSlopeLean.uasset" 1042
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jump_Start.uasset" 1043
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jump_Land_Recovery_Additive.uasset" 1044
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jump_Land.uasset" 1045
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jump_Apex.uasset" 1046
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jog_Fwd_Stop.uasset" 1047
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Jog_Fwd_Start.uasset" 1048
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/Idle.uasset" 1049
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/LevelStart.uasset" 1050
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/LevelStart_Montage.uasset" 1051
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AnimBP_Boris_Rigging.uasset" 1052
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_CC.uasset" 1053
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_RU.uasset" 1054
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_RD.uasset" 1055
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_RC.uasset" 1056
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_LU.uasset" 1057
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_LD.uasset" 1058
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_LC.uasset" 1059
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_CU.uasset" 1060
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Idle_AO_CD.uasset" 1061
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Animations/AimOffset/Boris_AO_Blendspace.uasset" 1062
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Boris_AnimBlueprint.uasset" 1063
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/BB_Boris.uasset" 1064
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/Attack.uasset" 1065
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/BT_Boris.uasset" 1066
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/AIController_Boris.uasset" 1067
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/EnemyBoris.uasset" 1068
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/MeleeEnemyBoris/ChangeNPCSpeed.uasset" 1069
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/BT_Zinx.uasset" 1070
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/AIController_Zinx.uasset" 1071
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Enemies/RangeEnemyZinx/EnemyZinx.uasset" 1072
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Maps/Level1.umap" 1073
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_01.uasset" 1074
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Stairs_01.uasset" 1075
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Ground01_N.uasset" 1076
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Ground01_D.uasset" 1077
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_GroundBrick.uasset" 1078
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD4.uasset" 1079
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Maps/Level2_BuiltData.uasset" 1080
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimBlock01.uasset" 1081
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Maps/Level2.umap" 1082
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Menues/MainMenu/W_MainMenu.uasset" 1083
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_AngelStatue02_N.uasset" 1084
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Textures/T_AngelStatue02_D.uasset" 1085
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Materials/M_AngelStatue02.uasset" 1086
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Infinity_Blade_Assets/Meshes/Props/SM_Statue_Ruins.uasset" 1087
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Maps/MainMenu_BuiltData.uasset" 1088
+"../../../../../Da Vinci/5to cuatrimestre/Prog Motores 1/Proyectos/TPs/ProgMot1Unreal/Content/Maps/MainMenu.umap" 1089
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1090
+"../../../Engine/Content/Maps/Entry.umap" 1091
