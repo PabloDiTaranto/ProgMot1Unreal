@@ -35,8 +35,10 @@ void AMainCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 	PlayerInputComponent->BindAxis("MouseX", this, &AMainCharacter::MouseX);
 	PlayerInputComponent->BindAxis("MouseY", this, &AMainCharacter::MouseY);
 
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AMainCharacter::Jump);
+	//PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AMainCharacter::Jump);
 }
+
+
 
 void AMainCharacter::MoveForward(float f)
 {
